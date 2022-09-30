@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Github has been setup by me now.
 Create a new branch is quick and simples.
-change sth
+change sth and save.
